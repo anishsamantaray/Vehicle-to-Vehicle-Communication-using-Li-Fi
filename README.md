@@ -46,5 +46,5 @@ The Arduino Uno is connected with the breadboard which in turn is connected with
 
 • BUZZER
 
-**Demonstration of the Project**
+
 
