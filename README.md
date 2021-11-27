@@ -2,6 +2,8 @@
 
 **ABSTRACT**
 
+Li-Fi knows a light fidelity concept in the world. Li-fi is based on visual light communication. In that, we use an LED light emitting diode to transmit the data’s to the receiver side from the receiver side we used the photovoltaic cell to receive the data’s from the transmitter. LiFi the rated speed can reach until 14 Gbps. Onbody can hack this Li-Fi technology.
+
 This project is concise in vehicle-to-vehicle communication to avoid accidents. We use the ultrasonic sensor, gas sensor, vibration sensor, and Li-Fi transmitter and receiver. The ultrasonic sensor is used to find the distances of the front vehicle and measuring the vibration level in the vehicle is done through the vibration sensor so that it could send the information if the car is overspreading or coming slow behind. The gas sensor measures the alcohol level of the driver to avoid drink and drive cases so that the other car drivers know that this driver is drunk. This data is sent through the Li-Fi transmitter to the receiver vehicle. Every vehicle has a receiver and a transmitter to transmit the data about their own vehicle and receive.
 
 **Objective and goal of the project**
@@ -43,4 +45,6 @@ The Arduino Uno is connected with the breadboard which in turn is connected with
 • SOLAR PANEL
 
 • BUZZER
+
+**Demonstration of the Project**
 
